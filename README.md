@@ -1,1 +1,0 @@
-# beckognize.githubpages.io
