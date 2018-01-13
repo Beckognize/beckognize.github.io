@@ -1,0 +1,43 @@
+h1{
+font-size: 100px;
+font-family: lobster, Serif;
+
+}
+h2{
+  padding-bottom:20px;
+   padding-left: 20px;
+
+}
+h3{
+   padding-left: 150px;
+
+}
+p{
+  font-size: 25px;
+  font-family: serif;
+  width: 100%;
+
+}
+div {
+  outline: 1px solid red;
+}
+.otter{
+ width: 100%;
+  padding-top:70px;
+
+
+}
+.green-background {
+    background-color: #339933;
+ }
+body {
+  background-image: url("../images/ocean.jpeg");
+  background-size: cover;
+}
+
+
+.sea-background {
+
+background-image: url("http://media.new.mensxp.com/media/content/2017/Jul/image-5-pexels-1498917202.jpeg");
+
+}
