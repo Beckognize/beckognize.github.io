@@ -18,26 +18,19 @@ p{
   width: 100%;
 
 }
-div {
+xdiv {
   outline: 1px solid red;
 }
 .otter{
  width: 100%;
   padding-top:70px;
+}
 
+.roomies{
+ width: 100%;
 
 }
-.green-background {
-    background-color: #339933;
- }
 body {
   background-image: url("../images/ocean.jpeg");
   background-size: cover;
-}
-
-
-.sea-background {
-
-background-image: url("http://media.new.mensxp.com/media/content/2017/Jul/image-5-pexels-1498917202.jpeg");
-
 }
