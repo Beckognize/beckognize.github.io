@@ -22,13 +22,18 @@ h4{
    padding-top: 110px;
    padding-left: 80px;
 }
+
+h5{
+   font-size:30px;
+   text-align: center;
+}
 p{
   font-size: 25px;
   font-family: serif;
   width: 100%;
 
 }
-xdiv {
+div {
   outline: 1px solid red;
 }
 .otter{
@@ -41,6 +46,7 @@ xdiv {
 
 }
 body {
+  background: #b3d9ff url(bg.jpg) top left no-repeat;
   background-image: url("../images/ocean.jpeg");
   background-size: cover;
 }
