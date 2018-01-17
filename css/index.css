@@ -45,6 +45,20 @@ div {
  width: 100%;
 
 }
+.plaque {
+
+               color: brown;
+               border: 5px solid gold;
+               border-bottom-color: brown;
+               border-left-color: orange;
+               border-right-color: orange;
+               background: linear-gradient(to bottom, #ffc578 0%,#fb9d23 100%);
+             }
+             .plaque:hover {
+               background: linear-gradient(to bottom, #ffd7a3 0%,#fcbd6a 100%);
+             }
+
+
 body {
   background: #b3d9ff url(bg.jpg) top left no-repeat;
   background-image: url("../images/ocean.jpeg");
