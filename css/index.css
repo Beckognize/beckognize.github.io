@@ -48,8 +48,13 @@ xdiv {
 }
 .plaque {
 
-               color: black;
+               color: white;
+               text-shadow: -2px 0px 1px rgb(206,219,233),-3px -1px 2px black, 1px 0px 0px black;
                border: 5px solid white;
+               padding-left: 10px;
+               padding-right: 10px;
+               padding-top: 5px;
+               padding-bottom: 5px;
                border-bottom-color: rgba(38,85,139,1);
                border-left-color: rgba(206,219,233,1);
                border-right-color: rgba(206,219,233,1);
