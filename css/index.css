@@ -31,7 +31,7 @@ p{
   width: 100%;
 
 }
-xdiv {
+Xdiv {
   outline: 1px solid red;
 }
 .otter{
@@ -44,26 +44,26 @@ xdiv {
 
 }
 .plaque {
-
-               color: #3a8bc2;
-               font-weight:bold;
-               font-size: 20px;
-               font-family: sans-serif;
-               text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);
-               border: 5px solid white;
-               border-radius: 0.5px;
-               padding-left: 5px;
-               padding-right: 5px;
-               padding-top: 2px;
-               padding-bottom: 2px;
-               border-bottom-color: rgba(38,85,139,1);
-               border-left-color: rgba(206,219,233,1);
-               border-right-color: rgba(206,219,233,1);
-               background: linear-gradient(to bottom, rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%);
-             }
-             .plaque:hover {
-               background: linear-gradient(to bottom, #ffd7a3 0%,#fcbd6a 100%);
-             }
+   color: #3a8bc2;
+   font-weight:bold;
+   font-size: 20px;
+   font-family: sans-serif;
+   text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);
+   border: 5px solid white;
+   border-radius: px;
+   box-shadow: 0 2px 5px #000;
+   padding-left: 5px;
+   padding-right: 5px;
+   padding-top: 2px;
+   padding-bottom: 2px;
+   border-bottom-color: rgba(38,85,139,1);
+   border-left-color: rgba(206,219,233,1);
+   border-right-color: rgba(206,219,233,1);
+   background: linear-gradient(to bottom, rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%);
+ }
+ .plaque:hover {
+   background: linear-gradient(to bottom, #ffd7a3 0%,#fcbd6a 100%);
+ }
 
 
 body {
