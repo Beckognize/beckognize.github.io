@@ -31,7 +31,11 @@ p{
   width: 100%;
 
 }
-Xdiv {
+.larger-image {
+    width: 700px;
+  }
+
+xdiv {
   outline: 1px solid red;
 }
 .otter{
