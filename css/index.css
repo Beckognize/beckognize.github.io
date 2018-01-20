@@ -79,3 +79,7 @@ body {
   background-image: url("../images/ocean.jpeg");
   background-size: cover;
 }
+@media (max-width: 767px) {
+  div {
+   outline: 1px solid red;
+  }
