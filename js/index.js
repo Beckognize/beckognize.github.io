@@ -1,3 +1,3 @@
 
-xalert("If you love otters click ok!")
+alert("If you love otters click ok!")
 console.log("today is", Date)
