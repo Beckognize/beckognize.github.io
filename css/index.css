@@ -80,6 +80,10 @@ body {
   background-size: cover;
 }
 @media (max-width: 767px) {
+  h4 {
+    padding-left: 0px;
+  }
   div {
    outline: 1px solid red;
   }
+}
