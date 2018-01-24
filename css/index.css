@@ -55,6 +55,11 @@ xdiv {
  width: 100%;
 
 }
+
+.pics{
+  border:10px solid white;
+  image-shadow: -2px 2px 3px black;
+}
 .plaque {
    color: #3a8bc2;
    font-weight:bold;
