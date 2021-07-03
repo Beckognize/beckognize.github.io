@@ -3272,6 +3272,7 @@ a:hover {
 	float: left;
 	clear: both;
 	margin-bottom: 8px;
+  font-size: 0.8rem;
 }
 #access ul li li {
 	margin: 0;
@@ -8340,6 +8341,8 @@ h2.person-name {
 
 }
 
+/** CSS overrides for WordPress theme **/
+
 .rsNav .rsThumb,
 .rsThumbDiv,
 .rsNav  {
@@ -8355,4 +8358,14 @@ h2.person-name {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+h1#site-title small {
+  color: #888;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+h1#site-title {
+  font-size: 1.25rem;
 }
