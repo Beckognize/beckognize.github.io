@@ -39,8 +39,6 @@ p{
     width: 700px;
   }
 
-xdiv {
-  outline: 1px solid red;
 }
 .otter{
  width: 100%;
@@ -92,7 +90,7 @@ body {
   h4 {
     padding-left: 0px;
   }
-  div {
-   outline: 1px solid red;
+  img{
+    width: 100%;
   }
 }
