@@ -8340,7 +8340,19 @@ h2.person-name {
 
 }
 
-.rsNav .rsThumb img {
-  height: 150px !important;
-  width: 150px !important;
+.rsNav .rsThumb,
+.rsThumbDiv,
+.rsNav  {
+  height: 75px !important;
+}
+
+.rsNav .rsThumb,
+.rsThumbDiv {
+  width: 75px !important;
+}
+
+.rsThumbDiv {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
