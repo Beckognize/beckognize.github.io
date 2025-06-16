@@ -38,7 +38,7 @@ typeof f&&f.apply(h);"function"===typeof b&&b()};0<k&&p&&d.transit.useTransition
  * 
  * Open source under the BSD License. 
  * 
- * Copyright © 2008 George McGinley Smith
+ * Copyright ï¿½ 2008 George McGinley Smith
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without modification, 
@@ -207,7 +207,7 @@ jQuery.extend( jQuery.easing,
  * 
  * Open source under the BSD License. 
  * 
- * Copyright © 2001 Robert Penner
+ * Copyright ï¿½ 2001 Robert Penner
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without modification, 
@@ -726,7 +726,7 @@ jQuery(document).ready(function($) {
 		$pageMenu.children('ul').addClass('sf-menu');
 	}
 	
-	$('ul.sf-menu').superfish();
+	// $('ul.sf-menu').superfish();
 	
 	// cache jQuery window
 	var $window = $(window);
